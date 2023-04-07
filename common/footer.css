@@ -1,0 +1,95 @@
+#footer {
+	padding-top: 0px;
+	background: #32302f;
+	color: #8f8b89;
+	padding-bottom:0px;
+}
+#footer ul{
+	list-style:none;
+}
+#footer a[href^="mailto"] {
+	color: #8f8b89;
+}
+.footer-logo {
+	margin-bottom: 32px;
+}
+.footer-logo a{
+	margin-top:-14px;
+	text-decoration: none;
+	display:inline-block;
+}
+#footer p {
+	line-height: 1.7;
+	text-align:left;
+	margin-bottom: 30px;
+	font-size: 14px;
+	color: #8f8b89;
+}
+#footer address {
+	line-height: 1.8;
+}
+#footer address span span a{
+	color:#8f8b89;
+}
+#footer address > span {
+	margin-bottom: 6px;
+}
+#footer address span {
+	display: block;
+	overflow: hidden;
+}
+#footer address .fa {
+	font-size: 17px;
+	width: 27px;
+	float: left;
+	margin-top: 6px;
+}
+#footer .use-links ul{
+	list-style: none;
+}
+#footer .use-links a{
+	text-decoration: none;
+	color:#8f8b8972;
+	
+}
+#footer .twitter-update a {
+	color: #8f8b89;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	
+}
+#footer .twitter-update a:hover {
+	color: #A5A4A4;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+#footer h6 {
+	font-weight: 700;
+	color: #fff;
+	margin: 5px 0 35px;
+}
+
+#footer .social-icons li{
+	float: left;
+	margin: -16px 0 0;
+	
+}
+#footer .social-icons > li {
+	margin-left: 20px;
+}
+#footer .social-icons > li:first-child {
+	margin-left: 0;
+}
+#footer .social-icons a {
+	font-size: 24px;
+	color: #595756;
+}
+#footer .social-icons a:hover, #footer .social-icons a:focus {
+	color: #fff;
+}
