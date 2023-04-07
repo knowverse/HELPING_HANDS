@@ -1,1 +1,1 @@
-# minor_project
+# HELPING_HANDS
